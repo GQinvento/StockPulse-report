@@ -2,13 +2,13 @@
 
 <div style="text-align: center;">
   <h1>StockPulse Documentation</h1>
-  <img src="https://shorturl.at/7M79G" alt="saveit-logo" width="300px"/>
+  <img src="https://shorturl.at/7M79G" alt="stockpulse-logo" width="300px"/>
 </div>
 
 <div style="display: flex; justify-content: center;">
 
   <div>
-    <h4 style="text-align: center; margin-bottom: 1.2rem;">Startup: GQnomics</h4>
+    <h4 style="text-align: center; margin-bottom: 1.2rem;">Startup: GQinvento</h4>
     <table border="1" style="margin: auto;">
       <thead>
         <tr>
