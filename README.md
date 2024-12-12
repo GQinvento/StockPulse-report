@@ -145,6 +145,12 @@
           <td>Gonzalo Quedena</td>
           <td>documentation from section 1.1 to 1.2.2.2.</td>
         </tr>
+        <tr>
+          <td>0.0.2</td>
+          <td>11/12/2024</td>
+          <td>Gonzalo Quedena</td>
+          <td>documentation from section 1.2.2.3. to 1.3.</td>
+        </tr>  
       </tbody>
     </table>
   </div>
@@ -303,6 +309,101 @@ We’ll know we’ve been successful when we see increasing adoption of the plat
 * Interactive dashboards to identify inventory trends and stock levels.  
 * Notifications when stock levels are low or when inventory thresholds are close to being exceeded.  
 
-##### 1.2.2.3. Lean UX Hypothesis Statements  
+##### 1.2.2.3. Lean UX Hypothesis Statements
 
-##### 1.2.2.4. Lean UX Canvas
+###### Hypothesis 1   
+We believe we will be able to **improve inventory management efficiency** by providing a platform that centralizes all relevant information about equipment and its maintenance.
+
+###### Hypothesis 2   
+Creemos que lograremos **reducir los costos asociados a la gestión manual del inventario** al automatizar procesos como la actualización de stock, el seguimiento de equipamiento y la planificación de mantenimientos.
+
+###### Hypothesis 3  
+We believe we will be able to **reduce the costs associated with manual inventory management** by automating processes such as stock updating, equipment tracking and maintenance planning.
+
+###### Hypothesis 4  
+We believe we will be able to **improve user decision making** by providing alerts and reports based on real-time data on equipment inventory and maintenance.
+
+###### Hypothesis 5  
+We believe that we will be able to achieve **a higher level of control and traceability in the maintenance history of electrical products and machinery** by integrating a detailed and reliable tracking system.
+
+##### 1.2.2.4. Lean UX Canvas  
+
+<table style="width: 50%; border-collapse: collapse;">
+    <tr>
+        <td style="border: 1px solid black; text-align: center; padding: 8px;">
+            <span><strong>What is the business problem we are solving?</strong></span>
+            <p align="justify">Businesses struggle with inefficient inventory and maintenance processes, leading to operational disruptions, wasted resources, and stock mismanagement.</p>
+        </td>
+        <td style="border: 1px solid black; text-align: center; padding: 8px;" rowspan="2">
+            <span><strong>What solutions do we provide to achieve this result?</strong></span>
+            <p align="justify">We provide a platform for predictive maintenance and inventory management with real-time tracking, automated stock updates, and actionable insights.</p>
+        </td>
+        <td style="border: 1px solid black; text-align: center; padding: 8px;">
+            <span><strong>How do we measure success?</strong></span>
+            <p align="justify">Achieving a 75% adoption rate in the first year, reducing downtime by 25%, and attaining a customer satisfaction (CSAT) score above 90%.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; text-align: center; padding: 8px;">
+          <span><strong>Who are our users?</strong></span>
+          <p>Our users include:</p>
+          <ul style="list-style-type: none; padding-left: 0;">
+            <li><strong align="justify">Companies with inventory management needs</strong> that focus on controlling equipment volumes, optimizing operations, and ensuring proper asset maintenance.</li>
+            <li><strong align="justify">Durable goods suppliers</strong> involved in the sale or rental of equipment, seeking to improve their inventory management systems.</li>
+          </ul>
+        </td>
+        <td style="border: 1px solid black; text-align: center; padding: 8px;">
+            <span><strong>What do we expect users to achieve?</strong></span>
+            <p align="justify">Users will optimize stock levels, reduce downtime, and improve operational efficiency through data-driven decisions.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; text-align: center; padding: 8px;">
+          <p align="justify">If companies manage inventory efficiently, aircraft turnover will improve.</p>
+          <p align="justify">If predictive monitoring is implemented, software adoption will increase.</p>
+          <p align="justify">If inventory processes are automated, downtime will be reduced.</p>
+          <p align="justify">If asset tracking is made easy, 90% customer satisfaction will be achieved.</p>
+          <p align="justify">If operations are optimized, significant cost savings will be achieved.</p>
+        </td>
+        <td style="border: 1px solid black; text-align: center; padding: 8px;">
+            <span><strong>What is the most important thing we should learn first?</strong></span>
+            <p align="justify">Understanding key failure points in machinery and inventory trends that impact operational continuity.</p>
+        </td>
+        <td style="border: 1px solid black; text-align: center; padding: 8px;">
+            <span><strong>What is the minimum amount of work we need to do to learn the next most important thing?</strong></span>
+            <p align="justify">Analyze past inventory and maintenance data to establish a baseline for predictive models and actionable insights.</p>
+        </td>
+    </tr>
+</table>
+
+### 1.3. Target Segments
+
+#### Segment #1: Companies with inventory management needs
+
+##### **Demographic Aspects**:  
+- Gender: Male and Female  
+- Age: 30-55 years  
+- Marital Status: Single or Married  
+
+##### **Geographic Aspects**:  
+- Location: Lima, Peru  
+
+##### **Psychological Aspects**:  
+- Objective: Optimize inventory management processes, reduce operational inefficiencies, and ensure equipment maintenance is tracked.  
+- Values: Efficiency, Precision, Accountability, Continuous Improvement.  
+
+---
+
+#### Segment #2: Durable goods suppliers
+
+##### **Demographic Aspects**:  
+- Gender: Male or Female  
+- Age: 30-60 years  
+- Marital Status: Single or Married  
+
+##### **Geographic Aspects**:  
+- Location: Peru (Lima, Ica, Piura, Lambayeque, and other regions)  
+
+##### **Psychological Aspects**:  
+- Objective: Streamline the process of tracking and maintaining their products, ensuring timely service for their customers.  
+- Values: Reliability, Customer-Centric Approach, Efficiency, Responsiveness.  
