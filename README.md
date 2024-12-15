@@ -150,7 +150,13 @@
           <td>11/12/2024</td>
           <td>Gonzalo Quedena</td>
           <td>documentation from section 1.2.2.3. to 1.3.</td>
-        </tr>  
+        </tr>
+        <tr>
+          <td>0.0.3</td>
+          <td>14/12/2024</td>
+          <td>Gonzalo Quedena</td>
+          <td>documentation from section 2.1. to 2.1.2</td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -407,3 +413,215 @@ We believe that we will be able to achieve **a higher level of control and trace
 ##### **Psychological Aspects**:  
 - Objective: Streamline the process of tracking and maintaining their products, ensuring timely service for their customers.  
 - Values: Reliability, Customer-Centric Approach, Efficiency, Responsiveness.  
+
+## Chapter II: Requeriments Elicitation & Analysis  
+
+### 2.1. competitors
+<p align="justify">
+This section identifies and analyzes StokPulse's main direct and indirect competitors. The objective is to compare the key features of each competitor in terms of their value proposition, target market, marketing strategies, and products or services offered. This analysis will help you better understand the competitive landscape and identify areas of opportunity where GQinvento can differentiate and stand out.
+</p>  
+
+#### 2.1.1. Análisis competitivo
+| Competitive Analysis Landscape |         |
+|--------------------------------|---------|
+| <p align="center">Why perform this analysis?</p>      | <p align="justify">We conducted this analysis in order to understand the market we were initially facing, to be able to evaluate the strategies adopted by existing platforms and thus learn from their successes and mistakes.</p> |
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>StockPulse</th>
+      <th>
+        <img src="https://www.flowgear.net/wp-content/uploads/2024/08/zoho-inventory-1024x512-20201007-1-e1652957055361.png" alt="zoho-inventory-logo" width="220px"/>
+      </th>
+      <th>
+        <img src="https://www.thesmbguide.com/images/quickbooks-commerce.png" alt="zoho-inventory-logo" width="220px"/>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Profile</td>
+      <td>Overview</td>
+      <td>
+        <p align="justify">StockPulse is a modern inventory management system designed specifically for businesses that manage machinery or durable goods. It focuses on tracking inventory, maintenance history, and providing real-time information through an easy-to-use dashboard.</p>
+      </td>
+      <td>
+       <p align="justify">Zoho Inventory is a cloud-based inventory management software designed to help businesses manage their stock levels, sales, and purchase orders. It integrates   seamlessly with Zoho's ecosystem and popular third-party platforms like Amazon, eBay, and Shopify.</p>
+      </td>
+      <td>
+        <p align="justify">QuickBooks Commerce is an inventory and order management software tailored to small businesses. It is part of the QuickBooks suite, enabling tight integration with accounting and financial tools.</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Competitive Advantage. What value do you offer to customers?</td>
+      <td>
+        <p align="justify">StockPulse offers unique features tailored to businesses with inventory needs, such as maintenance history tracking and a customizable dashboard for actionable insights. These capabilities help organizations optimize asset utilization and improve decision-making.</p>
+      </td>
+      <td>
+        <p align="justify">Zoho Inventory offers extensive integrations and automation tools, making it easy for businesses to streamline their workflows and manage operations from a single platform.</p>
+      </td>
+      <td>
+        <p align="justify">QuickBooks Commerce provides seamless integration with financial tools, making it easier for businesses to manage both inventory and accounting within one ecosystem.</p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Target market</td>
+      <td>
+        <ul align="justify">
+          <li>Companies managing large inventories of machinery or durable goods.</li>
+          <li>Distributors and suppliers who need tracking and maintenance solutions.</li>
+        </ul>
+      </td>
+      <td align="justify">
+        Small to medium-sized businesses (SMBs) seeking affordable and scalable inventory management solutions.
+      </td>
+      <td align="justify">
+        Entrepreneurs and small businesses needing an all-in-one solution for inventory and financial management.
+      </td>
+    </tr>
+    <tr>
+      <td>Marketing profile</td>
+      <td>Marketing Strategy</td>
+      <td>
+        <ul>
+          <li>Emphasizes customization and features tailored to specific industries.</li>
+          <li>Utilizes digital marketing strategies like social media, email campaigns, and partnerships with distributors.</li>
+          <li>Offers free demos and tutorials to demonstrate functionality.</li>
+        </ul>
+      </td>
+      <td>
+        <ul align="justify">
+          <li>Emphasizes ease of use and affordability in their advertising campaigns.</li>
+          <li>Utilizes digital marketing channels such as social media, Google Ads, and content marketing (e.g., blogs and tutorials).</li>
+          <li>Offers free trials to attract customers.</li>
+        </ul>
+      </td>
+      <td>
+        <ul align="justify">
+          <li>Leverages the QuickBooks brand reputation for trust and reliability</li>
+          <li>Digital campaigns focusing on ease of integration with accounting</li>
+          <li>Partnerships with accountants and small business advisors</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Product Profile</td>
+      <td>Products and Services</td>
+      <td>
+        <ul align="justify">
+          <li>Inventory tracking and management</li>  
+          <li>Maintenance history tracking for all assets</li>  
+          <li>Customizable dashboards with real-time analytics</li>  
+          <li>Alerts and notifications for maintenance schedules</li>  
+          <li>Integration with accounting and supply chain tools (planned features)</li>
+        </ul>
+      </td>
+      <td>
+        <ul align="justify">
+          <li>Inventory tracking</li>
+          <li>Order management</li>
+          <li>Integration with e-commerce platforms</li>
+          <li>Analytical reporting tools</li>
+          <li>Mobile app for real-time stock management</li>
+        </ul>
+      </td>
+      <td>
+        <ul align="justify">
+          <li>Inventory and order management</li>
+          <li>Multi-channel sales integration</li>
+          <li>Financial reporting and analytics</li>
+          <li>CRM features for customer management</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Pricing and Costs</td>
+      <td>
+        <ul align="justify">
+          <li>Competitive tiered pricing starting at $49/month for small businesses, with scalable options for larger organizations.</li>
+          <li>Free trial available for new customers.</li>
+        </ul>
+      </td>
+      <td>
+        <ul align="justify">
+          <li>Free plan available with basic features.</li>
+          <li>Paid plans start at $59/month, scaling based on features and number of users.</li>
+        </ul>
+      </td>
+      <td align="justify">
+        Pricing starts at $39/month for basic plans, with additional costs for advanced features and user licenses.  
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Distribution Channels </td>
+      <td colspan="3" align="center">Web and Mobile</td>
+    </tr>
+  </tbody>
+</table>  
+
+#### 2.1.2. Strategies and tactics against competitors  
+<p align="justify">
+  In this section, we will indicate the strategies and tactics that will be efficient to measure ourselves against competitors, through the SWOT Analysis, a tool that helps evaluate Strengths, Weaknesses, Opportunities and Threats.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <td><b>Competitors</b></td>
+      <td></td>
+      <th>StockPulse</th>
+      <th>
+        <img src="https://www.flowgear.net/wp-content/uploads/2024/08/zoho-inventory-1024x512-20201007-1-e1652957055361.png" alt="zoho-inventory-logo" width="220px"/>
+      </th>
+      <th>
+        <img src="https://www.thesmbguide.com/images/quickbooks-commerce.png" alt="zoho-inventory-logo" width="220px"/>
+      </th>
+    </tr>
+    <tr align="justify">
+      <td>SWOT Analysis</td>
+      <td>Strengths</td>
+      <td width="220px">
+        Tailored features for industries managing complex inventories, User-friendly interface with customizable dashboards, Focus on maintenance tracking, filling a key niche in the market.  
+      </td>
+      <td>
+        User-friendly interface, Affordable pricing for SMBs, Extensive integrations with e-commerce platforms.
+      </td>
+      <td>
+        Strong brand presence and trust in the QuickBooks ecosystem, Excellent integration with accounting and financial tools.
+      </td>
+    </tr>
+    <tr align="justify">
+      <td></td>
+      <td>Weaknesses</td>
+      <td>
+        New entrant in the market, with less brand recognition compared to established competitors, Mobile app still under development, limiting accessibility for some users.
+      </td>
+      <td>
+        Limited advanced features for larger enterprises, Dependency on the Zoho ecosystem for full functionality.
+      </td>
+      <td>
+        Higher costs compared to competitors like Zoho Inventory, Limited customization options for unique business needs.
+      </td>
+    </tr>
+    <tr align="justify">
+      <td></td>
+      <td>Opportunities</td>
+      <td>Growing demand for industry-specific inventory solutions, Potential to expand into global markets with multilingual and multi-currency support, Integration opportunities with other business tools like CRM and ERP systems.</td>
+      <td>Expansion into larger enterprise markets, Further development of AI-driven analytics.</td>
+      <td>Growing demand for integrated inventory-accounting solutions, Expansion into global markets.</td>
+    </tr>
+    <tr align="justify">
+      <td></td>
+      <td>Threats</td>
+      <td>Increased competition from affordable and specialized inventory solutions, Dependence on the overall QuickBooks ecosystem.</td>
+      <td>Competition from other affordable inventory solutions like QuickBooks, Dependence on cloud availability and security concerns.</td>
+      <td>Increased competition from affordable and specialized inventory solutions, Dependence on the overall QuickBooks ecosystem.</td>
+    </tr>
+  </thead>
+</table>
