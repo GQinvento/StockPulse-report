@@ -169,6 +169,12 @@
           <td>Gonzalo Quedena</td>
           <td>documentation from section 2.3.3.</td>
         </tr>
+        <tr>
+          <td>0.0.6</td>
+          <td>19/01/2025</td>
+          <td>Gonzalo Quedena</td>
+          <td>documentation from section 2.3.4.</td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -856,3 +862,15 @@ This section identifies and analyzes StokPulse's main direct and indirect compet
 
 ##### Segment 2
 <img src="/Chapter-II/Journey Mapping/Segment-II.png" alt="Journey Mapping Segment II" width="850px"/>
+
+#### 2.3.4. Empathy Mapping
+
+<p align="justify">
+  In this section, the Empathy Maps of our two main users are presented: Maria and Carlos, which will help us better understand the needs, emotions and thoughts of our users in relation to the solution we propose, StockPulse. These maps not only give us insight into their behaviors, but also how they feel and what they need from our app.
+</p>
+
+##### Segment 1
+<img src="/Chapter-II/Empathy Mapping/Segment-I.png" alt="Empathy Mapping Segment I" width="850px"/>
+
+##### Segment 2
+<img src="/Chapter-II/Empathy Mapping/Segment-II.png" alt="Empathy Mapping Segment II" width="850px"/>
