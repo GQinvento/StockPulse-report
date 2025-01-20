@@ -705,3 +705,135 @@ This section identifies and analyzes StokPulse's main direct and indirect compet
 </p>
 
 <img src="/Chapter-II/User Persona/Segment-II.png" alt="User Persona Segment II" width="700px"/>
+
+#### 2.3.2. User Task Matrix
+<p align="justify">
+  In this section, we present the User Task Matrix, which outlines the key tasks performed by the User Personas to achieve their  objectives. The segments considered for this analysis are "Maria," an operations manager representing companies with inventory management needs, and "Carlos," a sales manager representing durable goods suppliers. The following tasks reflect the essential activities these users undertake, regardless of the existence of our StockPulse web application. This matrix serves as a foundation to align StockPulse's functionalities with the real-world workflows of its target users.
+</p>
+
+<table border="1" cellpadding="5" cellspacing="0" style="width: 100%; table-layout: auto; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="width: 5%;">ID</th>
+      <th style="width: 30%;">Title</th>
+      <th style="width: 10%;">Importance (Maria)</th>
+      <th style="width: 10%;">Frequency (Maria)</th>
+      <th style="width: 10%;">Importance (Carlos)</th>
+      <th style="width: 10%;">Frequency (Carlos)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>User Registration</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Login</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>High</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Equipment Status</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>Low</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Status Notifications</td>
+      <td>Medium</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Maintenance History</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Critical Equipment Alerts</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>Low</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Inventory Management</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>Medium</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Inventory Product Inquiry</td>
+      <td>Medium</td>
+      <td>Low</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Standard Equipment Purchase Request</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>High</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Equipment Request Follow-up</td>
+      <td>Medium</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Equipment Request Cancellation</td>
+      <td>Medium</td>
+      <td>Low</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>US12</td>
+      <td>Landing Page Navigation</td>
+      <td>Medium</td>
+      <td>Medium</td>
+      <td>High</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>US13</td>
+      <td>Price Visualization</td>
+      <td>Low</td>
+      <td>Low</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>US14</td>
+      <td>Benefits Comparison</td>
+      <td>Low</td>
+      <td>Low</td>
+      <td>Medium</td>
+      <td>Medium</td>
+    </tr>
+  </tbody>
+</table>
