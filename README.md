@@ -155,13 +155,19 @@
           <td>0.0.3</td>
           <td>14/12/2024</td>
           <td>Gonzalo Quedena</td>
-          <td>documentation from section 2.1. to 2.1.2</td>
+          <td>documentation from section 2.1. to 2.1.2.</td>
         </tr>
         <tr>
           <td>0.0.4</td>
           <td>19/01/2025</td>
           <td>Gonzalo Quedena</td>
-          <td>documentation from sections 2.2.1. and 2.3.1.</td>
+          <td>documentation from sections 2.2.1. and 2.3.2.</td>
+        </tr>
+        <tr>
+          <td>0.0.5</td>
+          <td>19/01/2025</td>
+          <td>Gonzalo Quedena</td>
+          <td>documentation from section 2.3.3.</td>
         </tr>
       </tbody>
     </table>
@@ -837,3 +843,16 @@ This section identifies and analyzes StokPulse's main direct and indirect compet
     </tr>
   </tbody>
 </table>
+
+#### 2.3.3. User Journey Mapping
+<p align="justify">
+  This section presents the User Journey Maps, which illustrate the end-to-end journey experienced by our target segments without the intervention of our proposed solution. These maps identify the stages, interactions, and touchpoints that users go through to achieve their goals.
+
+  On one hand, we detail the complete journey Maria, the operations manager, takes to streamline inventory management for her company. On the other hand, we outline the steps Carlos, a sales manager, follows while seeking durable goods to meet customer demands efficiently.
+</p>
+
+##### Segment 1
+<img src="/Chapter-II/Journey Mapping/Segment-I.png" alt="Journey Mapping Segment I" width="850px"/>
+
+##### Segment 2
+<img src="/Chapter-II/Journey Mapping/Segment-II.png" alt="Journey Mapping Segment II" width="850px"/>
