@@ -625,3 +625,77 @@ This section identifies and analyzes StokPulse's main direct and indirect compet
     </tr>
   </thead>
 </table>
+
+#### 2.2.1. Interview Design
+
+##### General Questions:  
+1. What is your name?  
+2. How old are you?  
+3. What is your occupation?  
+4. What sector do you work in (companies with inventory management needs/durable goods suppliers)?  
+5. How long have you been in this industry?  
+
+##### Interviews for Segment 1: Companies with Inventory Management Needs  
+
+1. What are the main challenges you face in managing your inventory currently?  
+2. What systems or tools do you currently use to manage your inventory?  
+3. How often do you need to update or perform maintenance on the products in your inventory?  
+4. How important is it for you to have real-time detailed reports about your inventory's status?  
+5. What are the main consequences of not having an efficient inventory management system?  
+6. Would you like to customize reports or dashboards according to your specific needs?  
+7. What would you value most in an inventory system: ease of use, advanced features, or integrations with other tools?  
+8. How comfortable are you with adopting new technologies to improve your business efficiency?  
+9. What kind of alerts or notifications would be useful for you (e.g., maintenance reminders, low inventory warnings)?  
+10. How do you evaluate the return on investment (ROI) for tools or systems to manage inventory?  
+
+##### Interviews for Segment 2: Durable Goods Suppliers  
+
+1. What are the main challenges you face in managing the condition and traceability of your products?  
+2. How often do you need access to the maintenance history of the products you distribute?  
+3. What tools do you currently use to track the products you distribute or rent?  
+4. How important is it for you to share updated information about product status with your clients?  
+5. Would it be useful to have a system that integrates inventory, maintenance, and customer data into a single platform?  
+6. How important is it for your business to optimize product logistics and distribution?  
+7. How does the lack of precise information about inventory affect your relationship with clients?  
+8. What specific features do you expect from an inventory management system tailored to your business?  
+9. What metrics do you use to measure efficiency in inventory management?  
+10. What are your expectations in terms of technical support or training when implementing a new system?  
+
+#### 2.2.2. Record of interviews
+
+##### Interviews Segment 1
+
+###### Interview 1
+###### Interview 2
+
+##### Interviews Segment 2
+
+###### Interview 1
+###### Interview 2
+
+#### 2.2.3. Analysis of interviews
+
+##### Segment 1
+
+##### Segment 2
+
+#### 2.3. Needfinding
+
+#### 2.3.1. User Personas
+<p align="justify">
+  This section includes User Persona tabs that represent detailed archetypes of the target segments defined for our website. These archetypes have been created from an analysis of the interviews we have conducted with real users and a comparative study of the competition, with the aim of capturing the characteristics, needs and behaviors of our users.
+</p>
+
+##### Segment 1
+<p align="justify">
+  This segment represents the key decision-makers in companies that require efficient inventory management to handle large-scale operations. These companies prioritize optimizing their processes, ensuring the traceability of assets, and maintaining equipment effectively. Maria's role highlights the importance of streamlined workflows and real-time data access to support the growth and scalability of the business.
+</p>
+
+<img src="/Chapter-II/User Persona/Segment-I.png" alt="User Persona Segment I" width="700px"/>
+
+##### Segment 2
+<p align="justify">
+  This segment embodies the challenges and priorities of businesses involved in the distribution and maintenance of durable goods. These organizations focus on ensuring high-quality service, accurate tracking of their products, and seamless logistics operations. Carlos' role emphasizes the need for unified systems that provide real-time updates and integrate product and customer data to enhance operational efficiency and client satisfaction.
+</p>
+
+<img src="/Chapter-II/User Persona/Segment-II.png" alt="User Persona Segment II" width="700px"/>
